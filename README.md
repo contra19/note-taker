@@ -1,8 +1,13 @@
-# Note Taker App
+# Note Taker
+
+![License](https://img.shields.io/github/license/contra19/note-taker)
+![Version](https://img.shields.io/github/package-json/v/contra19/note-taker)
+![Contributors](https://img.shields.io/github/contributors/contra19/note-taker)
+![Issues](https://img.shields.io/github/issues/contra19/note-taker)
 
 ## Description
 
-The Note Taker App is a simple and intuitive application that allows users to create, save, and delete notes. This app is designed to help users keep track of their thoughts and tasks with ease. Built with Express.js for the backend and vanilla JavaScript for the frontend, the Note Taker App offers a seamless and user-friendly experience.
+The Note Taker App is a simple and intuitive application that allows users to create, save, and delete notes. This app is designed to help users keep track of their thoughts and tasks with ease. Built with Express.js for the backend and JavaScript for the frontend, the Note Taker App offers a seamless and user-friendly experience.
 
 ## Table of Contents
 
@@ -12,6 +17,7 @@ The Note Taker App is a simple and intuitive application that allows users to cr
 - [Screenshots](#screenshots)
 - [License](#license)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [Questions](#questions)
 
 ## Installation
@@ -20,11 +26,11 @@ To run the Note Taker App locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/note-taker-app.git
+    git clone https://github.com/contra19/note-taker.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd note-taker-app
+    cd note-taker
     ```
 3. Install the dependencies:
     ```sh
@@ -40,11 +46,10 @@ To run the Note Taker App locally, follow these steps:
 
 1. Open your browser and navigate to `http://localhost:3001`.
 2. Click on the "Get Started" button on the homepage.
-3. Create a new note by clicking the "New Note" button.
-4. Enter a title and text for your note.
-5. Click the "Save" button to save the note.
-6. View saved notes by clicking on them in the sidebar.
-7. Delete a note by clicking the trash icon next to it.
+3. Enter a title and text for your note.
+4. Click the "Save" button to save the note.
+5. View saved notes by clicking on them in the left sidebar.
+6. Delete a note by clicking the red trash can icon next to it.
 
 ## API Routes
 
@@ -57,12 +62,19 @@ The Note Taker App provides the following API routes:
 ## Screenshots
 
 ### Homepage
-![Homepage](public/assets/images/homepage.png)
+<img src="public/assets/images/homepage.png" alt="Homepage" width="600" height="400">
 
 ### Notes Page
-![Notes Page](public/assets/images/notes-page.png)
+<img src="public/assets/images/notes-page.png" alt="Notes Page" width="600" height="400">
+
+### Demo Video
+[Watch the Demo Video](https://drive.google.com/file/d/1zARLnYnl7rJhHGUMmlD4EyIyQuahbugg/view?usp=drive_link)
+
+### Link to Render Deployment
+[Note Taker Render Deployment](https://note-taker-3eo2.onrender.com)
 
 ## License
+![License](https://img.shields.io/github/license/contra19/note-taker)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
@@ -76,9 +88,14 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
+## Acknowledgements
+
+Special thanks to [Nick Zamboni](https://github.com/ndzamboni) and [Tristin Rohr](https://github.com/TristinRohr)for their valuable input and code examples.
+This helped give me direction and inspiration on how to organize and complete my code. 
+
 ## Questions
 
 If you have any questions about the project, please feel free to contact me:
 
-- GitHub: [your-username](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [contra19](https://github.com/contra19)
+- Email: [contra19](mailto:grimwolf@grimwolfstudios.com)
