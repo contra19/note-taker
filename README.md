@@ -62,10 +62,10 @@ The Note Taker App provides the following API routes:
 ## Screenshots
 
 ### Homepage
-<img src="public/assets/images/homepage.png" alt="Homepage" width="600" height="400">
+<img src="https://github.com/contra19/note-taker/tree/main/public/assets/Images/homepage.png" alt="Homepage" width="600" height="400">
 
 ### Notes Page
-<img src="public/assets/images/notes-page.png" alt="Notes Page" width="600" height="400">
+<img src="https://github.com/contra19/note-taker/tree/main/public/assets/Images/notes-page.png" alt="Notes Page" width="600" height="400">
 
 ### Demo Video
 [Watch the Demo Video](https://drive.google.com/file/d/1zARLnYnl7rJhHGUMmlD4EyIyQuahbugg/view?usp=drive_link)
